@@ -29,7 +29,7 @@
 
                         <div class="nk-header-text">
 
-                            <h1 class="nk-title display-3 tshdb">Fatalicorns</h1>
+                            <h1 class="nk-title display-3 tshdb" style="font-size: 84px;">Fatalicorns</h1>
                             <h2 class="nk-title display-3 tshdb">Structure gaming créée pour vous !</h2>
 
                             <div class="nk-gap-2"></div>

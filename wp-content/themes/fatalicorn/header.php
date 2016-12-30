@@ -95,7 +95,7 @@
 
         <div class="nk-preloader-content">
             <div>
-                <img class="nk-img" src="<?php bloginfo('template_directory'); ?>/assets/images/logo.jpg" alt="GodLike - Gaming Boostrap 4 Template" width="170">
+                <img class="nk-img" src="<?php bloginfo('template_directory'); ?>/assets/images/logo-2.jpg" alt="Fatalicorns Gaming" width="170">
                 <div class="nk-preloader-animation"></div>
             </div>
         </div>
@@ -150,7 +150,7 @@
             <div class="container">
                 <div class="nk-nav-table">
 
-                    <a href="index.html" class="nk-nav-logo">
+                    <a href="<?php bloginfo('url'); ?>" class="nk-nav-logo">
                         <img src="<?php bloginfo('template_directory'); ?>/assets/images/logo.jpg" alt="" width="90">
                     </a>
 
