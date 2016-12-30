@@ -26,7 +26,6 @@
 
 
 
-
                         <div class="nk-header-text">
 
                             <h1 class="nk-title display-3 tshdb" style="font-size: 84px;">Fatalicorns</h1>
